@@ -5,7 +5,6 @@ const Statistik = () => {
     return (
         <>
             <div>Statistik</div>
-            <BottomBar />
         </>
     )
 }
